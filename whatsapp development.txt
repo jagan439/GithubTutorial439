@@ -11,3 +11,7 @@ Author = jagan439
 4.attachments (image,audio,video,docs) option
 
 5.Hide last seen option
+
+6.audio call feature option
+
+7.video call feature option
