@@ -6,6 +6,8 @@ Author = jagan439
 
 2.Chat screen option
 
-3.last seen option
+3.last seen optional
 
-4.attachments (image,audio,video) option
+4.attachments (image,audio,video,docs) option
+
+5.Hide last seen option
