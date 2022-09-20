@@ -1,0 +1,11 @@
+This is whatsapp code
+
+Author = jagan439
+
+1.profile page option
+
+2.Chat screen option
+
+3.last seen option
+
+4.attachments (image,audio,video) option
